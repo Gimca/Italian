@@ -1,6 +1,6 @@
 # Nationalities & Languages (Nazionalità e Lingue)
 
-[🏠 Back to Index](index.md) | [📚 Back to Vocabulary](vocabulary.md)
+[🏠 Back to Index](README.md) | [📚 Back to Vocabulary](vocabulary.md)
 
 ## Table of Contents (Indice)
 

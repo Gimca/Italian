@@ -1,6 +1,6 @@
 # Grammar Rules (Regole Grammaticali)
 
-[🏠 Back to Index](index.md) | [🗣️ Pronunciation Guide](pronunciation.md)
+[🏠 Back to Index](README.md)
 
 ## Table of Contents (Indice)
 

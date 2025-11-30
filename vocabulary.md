@@ -1,6 +1,6 @@
 # Vocabulary (Vocabolario)
 
-[🏠 Back to Index](index.md)
+[🏠 Back to Index](README.md)
 
 ## Table of Contents (Indice)
 
@@ -18,10 +18,10 @@
 
 ## Topics (Argomenti)
 
-- 🔢 [Numbers (Numeri)](numbers.md) - Numbers 0-40 with pronunciation and Greek translations
 - 🌍 [Nationalities & Languages (Nazionalità e Lingue)](nationalities.md) - Nationalities with articles, gender forms, and pronunciation
+- 🔢 [Numbers (Numeri)](numbers.md) - Numbers 0-30, tens, hundreds, thousands with pronunciation and Greek translations
 - ⏰ [Time, Days & Months (Ora, Giorni e Mesi)](time.md) - Telling time, days of the week, months, and seasons
-- 📖 [Grammar Rules (Regole Grammaticali)](rules.md) - Grammar rules including articles, adjective agreement, and noun endings
+- 🔄 [Verbs (Verbi)](verbs.md) - Complete verb conjugations in present tense with Greek translations
 
 ## Words (Parole)
 

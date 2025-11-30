@@ -1,6 +1,6 @@
 # Pronunciation (Pronuncia - Προφορά)
 
-[🏠 Back to Index](index.md)
+[🏠 Back to Index](README.md)
 
 ## Table of Contents (Indice)
 
@@ -44,4 +44,4 @@ When **ci** or **gi** appear before **a, o, u** at the beginning or end of a wor
 
 ---
 
-[🏠 Back to Index](index.md)
+[🏠 Back to Index](README.md) | [📚 Back to Vocabulary](vocabulary.md)

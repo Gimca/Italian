@@ -1,13 +1,13 @@
 # Numbers (Numeri)
 
-[🏠 Back to Index](index.md) | [📚 Back to Vocabulary](vocabulary.md)
+[🏠 Back to Index](README.md) | [📚 Back to Vocabulary](vocabulary.md)
 
 ## Table of Contents (Indice)
 
 - [Numbers (Numeri)](#numbers-numeri)
   - [Table of Contents (Indice)](#table-of-contents-indice)
-  - [Numbers 0-30 (Numeri 0-30)](#numbers-0-30-numeri-0-30)
-  - [Decades (Decine)](#decades-decine)
+  - [Numbers 0-20 (Numeri 0-20)](#numbers-0-20-numeri-0-20)
+  - [Tens (Decine)](#tens-decine)
   - [Hundreds (Centinaia)](#hundreds-centinaia)
   - [Thousands (Migliaia)](#thousands-migliaia)
   - [Patterns to Remember (Schemi da Ricordare)](#patterns-to-remember-schemi-da-ricordare)
@@ -19,7 +19,7 @@
 
 ---
 
-## Numbers 0-30 (Numeri 0-30)
+## Numbers 0-20 (Numeri 0-20)
 
 | Number | Italian | Greek (Ελληνικά) | Pronunciation | Notes |
 |--------|---------|------------------|---------------|-------|
@@ -45,7 +45,7 @@
 | 19 | diciannove | δεκαεννέα | di-tʃan-ˈnɔ-ve | |
 | 20 | venti | είκοσι | ˈvɛn-ti | |
 
-## Decades (Decine)
+## Tens (Decine)
 
 | Number | Italian | Greek (Ελληνικά) | Pronunciation | Notes |
 |--------|---------|------------------|---------------|-------|
@@ -59,7 +59,7 @@
 | 80 | ottanta | ογδόντα | ot-ˈtan-ta | |
 | 90 | novanta | ενενήντα | no-ˈvan-ta | |
 
-**Pattern:** All decades from 20-90 end in **-anta** (except venti)
+**Pattern:** All tens from 20-90 end in **-anta** (except venti)
 
 **Examples (Esempi):**
 
@@ -139,7 +139,7 @@
   - trenta + uno = trent**uno** (not trentauno)
   - cinquanta + otto = cinquant**otto**
 - **Accent on numbers ending in 3**: ventitré, trentatré, quarantatré, etc.
-- **All decades 20-90 end in -anta** (except venti which ends in -i)
+- **All tens 20-90 end in -anta** (except venti which ends in -i)
 
 ### Hundreds (100-900)
 

@@ -1,6 +1,6 @@
 # Italian Alphabet (Alfabeto Italiano - Ιταλικό Αλφάβητο)
 
-[🏠 Back to Index](index.md)
+[🏠 Back to Index](README.md)
 
 ## Table of Contents (Indice)
 
@@ -109,4 +109,4 @@ These 5 letters are not part of the standard Italian alphabet but appear in fore
 
 ---
 
-[🏠 Back to Index](index.md)
+[🏠 Back to Index](README.md) | [📚 Back to Vocabulary](vocabulary.md)

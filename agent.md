@@ -7,6 +7,7 @@
   - [Student Profile (Profilo dello Studente)](#student-profile-profilo-dello-studente)
   - [Learning Resources Structure (Struttura delle Risorse)](#learning-resources-structure-struttura-delle-risorse)
   - [Teaching Approach (Approccio Didattico)](#teaching-approach-approccio-didattico)
+    - [Vocabulary Table Structure Rules](#vocabulary-table-structure-rules)
   - [Current Session Notes (Note della Sessione Corrente)](#current-session-notes-note-della-sessione-corrente)
   - [Progress Tracking (Monitoraggio dei Progressi)](#progress-tracking-monitoraggio-dei-progressi)
   - [Key Language Comparisons (Greek ↔ Italian)](#key-language-comparisons-greek--italian)
@@ -23,7 +24,7 @@
 
 ## Learning Resources Structure (Struttura delle Risorse)
 
-- `index.md` - Navigation hub for all learning files
+- `README.md` - Navigation hub for all learning files
 - `vocabulary.md` - General vocabulary organized by topics/themes
   - `numbers.md` - Numbers with pronunciation
   - `nationalities.md` - Nationalities and languages
@@ -31,7 +32,7 @@
 - `agent.md` - This file - agent context and learning progress tracking
 - Future files may include: `verbs.md`, `phrases.md`, etc.
 
-[🏠 Back to Index](index.md)
+[🏠 Back to Index](README.md)
 
 ## Teaching Approach (Approccio Didattico)
 
@@ -43,7 +44,7 @@
 - **IMPORTANT**: ALL markdown files must have a Table of Contents at the top
 - **IMPORTANT**: Always keep the Table of Contents updated when adding or modifying sections
 - **IMPORTANT**: All files must have navigation links (Back to Index, Back to Vocabulary, etc.)
-- **IMPORTANT**: When creating new files or topics, always update `index.md` and parent navigation files
+- **IMPORTANT**: When creating new files or topics, always update `README.md` and parent navigation files
 - **IMPORTANT**: Keep the navigation hierarchy consistent: Index → Category → Specific Topic
 
 ### Vocabulary Table Structure Rules

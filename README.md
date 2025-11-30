@@ -6,7 +6,6 @@
   - [Table of Contents (Indice)](#table-of-contents-indice)
   - [Quick Navigation (Navigazione Rapida)](#quick-navigation-navigazione-rapida)
   - [File Descriptions (Descrizioni dei File)](#file-descriptions-descrizioni-dei-file)
-    - [agent.md](#agentmd)
     - [vocabulary.md](#vocabularymd)
     - [numbers.md](#numbersmd)
     - [nationalities.md](#nationalitiesmd)
@@ -20,41 +19,46 @@
 
 ## Quick Navigation (Navigazione Rapida)
 
-- 📋 [Agent Context](agent.md) - Agent settings, teaching approach, and learning progress
-- 📚 [Vocabulary](vocabulary.md) - Words and phrases organized by topic
-  - 🔢 [Numbers](numbers.md) - Numbers 0-40 with pronunciation
-  - 🌍 [Nationalities & Languages](nationalities.md) - Nationalities with articles and gender forms
-  - ⏰ [Time, Days & Months](time.md) - Telling time, days, months, and seasons
+- 🔤 [Alphabet](alphabet.md) - Italian alphabet with pronunciation
 - 📖 [Grammar Rules](rules.md) - Grammar rules and patterns
 - 🗣️ [Pronunciation](pronunciation.md) - Pronunciation rules and patterns
-- 🔤 [Alphabet](alphabet.md) - Italian alphabet with pronunciation
-- 🔄 [Verbs](verbs.md) - Verb conjugations and usage
-- 🏠 [Back to Index](index.md) - This file
+- 📚 [Vocabulary](vocabulary.md) - Words and phrases organized by topic
+  - 🌍 [Nationalities & Languages](nationalities.md) - Nationalities with articles and gender forms
+  - 🔢 [Numbers](numbers.md) - Numbers 0-20, tens, hundreds, thousands with patterns
+  - ⏰ [Time, Days & Months](time.md) - Telling time, days, months, and seasons
+  - 🔄 [Verbs](verbs.md) - Verb conjugations and usage
+- 🏠 [Back to Index](README.md) - This file
 
 ---
 
 ## File Descriptions (Descrizioni dei File)
 
-### [agent.md](agent.md)
-
-Agent context file containing:
-
-- Student profile and learning goals
-- Teaching approach and guidelines
-- Progress tracking
-- Greek-Italian language comparisons
-
 ### [vocabulary.md](vocabulary.md)
 
-Vocabulary hub with links to specific vocabulary topics.
+Comprehensive vocabulary hub with:
+
+- 60+ words with full gender/number forms and articles
+- 11 adjectives with complete agreement patterns
+- 33 verbs in infinitive form with links to full conjugations
+- Interrogative pronouns (chi, che, quale, quanto, quando, dove, come, perché)
+- Other words (demonstratives, adverbs, pronouns)
+- 25+ common phrases and expressions
+- Links to specialized vocabulary topics (numbers, nationalities, time, verbs, grammar)
 
 ### [numbers.md](numbers.md)
 
-Numbers 0-40 with:
+Comprehensive number system covering:
 
-- Italian pronunciation (IPA-style with stress marks)
-- Greek translations
-- Pattern notes and usage tips
+- Numbers 0-20 with pronunciation and Greek translations
+- Tens (10-90): multiples of 10, all ending in -anta except venti
+- Hundreds (100-900): cento formation rules
+- Thousands (1,000-1,000,000): mille/mila patterns
+- Detailed pattern notes:
+  - Vowel elision rules (ventotto, trentuno)
+  - Accent patterns (ventitré, trentatré)
+  - Compound number formation
+  - Agreement rules
+- Multiple examples for each section
 
 ### [nationalities.md](nationalities.md)
 
@@ -108,11 +112,15 @@ Italian alphabet:
 
 ### [verbs.md](verbs.md)
 
-Verb conjugations:
+Comprehensive verb conjugations with 33 verbs:
 
-- Essential verbs: essere (to be), avere (to have)
-- Regular -are verbs: lavorare (to work)
-- Full present tense conjugations
-- Greek translations and pronunciation
-- Example sentences
-- More rules to be added as learning progresses
+- **Essential verbs**: essere (to be), avere (to have) - irregular
+- **-are verbs (19 verbs)**: abbligare, abitare, attaccare, cambiare, cercare, collegare, comunicare, dimenticare, giocare, indicare, inviare, lavorare, mancare, negare, pagare, parlare, pregare, scaricare, spiegare
+- **-ere verbs (6 verbs)**: chiedere, chiudere, nascondere, piovere (impersonal), prendere, ricevere
+- **-ire verbs without -isc- (5 verbs)**: aprire, dormire, offrire, partire, sentire
+- **-ire verbs with -isc- (5 verbs)**: capire, finire, preferire, pulire, spedire
+- Full present tense conjugation tables for all 6 persons
+- Greek translations for each conjugated form
+- IPA pronunciation for each form
+- 2+ example sentences per verb with Greek translations
+- Pattern notes for regular conjugations

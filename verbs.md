@@ -1,6 +1,6 @@
 # Verbs (Verbi - Ρήματα)
 
-[🏠 Back to Index](index.md)
+[🏠 Back to Index](README.md) | [📚 Back to Vocabulary](vocabulary.md)
 
 ## Table of Contents (Indice)
 
@@ -22,10 +22,10 @@
     - [Indicare (to indicate - δείχνω)](#indicare-to-indicate---δείχνω)
     - [Inviare (to send - στέλνω)](#inviare-to-send---στέλνω)
     - [Lavorare (to work - δουλεύω)](#lavorare-to-work---δουλεύω)
+    - [Parlare (to speak - μιλάω)](#parlare-to-speak---μιλάω)
     - [Mancare (to miss - λείπω)](#mancare-to-miss---λείπω)
     - [Negare (to deny - αρνούμαι)](#negare-to-deny---αρνούμαι)
     - [Pagare (to pay - πληρώνω)](#pagare-to-pay---πληρώνω)
-    - [Parlare (to speak - μιλάω)](#parlare-to-speak---μιλάω)
     - [Pregare (to pray - προσεύχομαι)](#pregare-to-pray---προσεύχομαι)
     - [Scaricare (to download - κατεβάζω)](#scaricare-to-download---κατεβάζω)
     - [Spiegare (to explain - εξηγώ)](#spiegare-to-explain---εξηγώ)

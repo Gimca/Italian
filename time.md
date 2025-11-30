@@ -1,6 +1,6 @@
 # Time, Days & Months (Ora, Giorni e Mesi - Ώρα, Ημέρες και Μήνες)
 
-[🏠 Back to Index](index.md) | [📚 Back to Vocabulary](vocabulary.md)
+[🏠 Back to Index](README.md) | [📚 Back to Vocabulary](vocabulary.md)
 
 ## Table of Contents (Indice)
 
@@ -168,4 +168,4 @@
 
 ---
 
-[🏠 Back to Index](index.md) | [📚 Back to Vocabulary](vocabulary.md)
+[🏠 Back to Index](README.md) | [📚 Back to Vocabulary](vocabulary.md)
